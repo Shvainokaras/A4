@@ -1,0 +1,60 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-image: url(baza.jpg);
+    background-size: 100% ; 
+    background-repeat: no-repeat;
+}
+
+ul, li {
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 700;
+    color: #000
+}
+
+h3 {
+    font-weight: 400;
+}
+
+h2 {
+    text-align: center;
+}
+.header {
+	background-image: url(background1.jpg)  ;
+    background-size: 100% ; 
+    background-repeat: no-repeat;
+	padding-bottom: 50px;
+}
+section{
+	
+	padding-bottom: 50px;
+    padding: 20px;
+
+}
+#gallery{
+	padding: 10px;
+	background-color: white;
+}
+.post{
+    background-color: white;
+}
+img{padding: 15px}
+#pesenki{
+    background-image: url(uzkoglazye.jpg);
+    background-size: 100%;
+
+}
+.muzyka{
+    color: white;
+}
+footer{
+    background-color: white;
+    
+}
+#tvorec{
+    color: lightgray;
+}
