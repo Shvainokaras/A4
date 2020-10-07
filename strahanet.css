@@ -58,3 +58,7 @@ footer{
 #tvorec{
     color: lightgray;
 }
+#posts{
+background-image: url(baza1.jpg);
+background-size: 100%;
+}
