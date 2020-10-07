@@ -1,8 +1,5 @@
 body {
     font-family: 'PT Sans', sans-serif;
-    background-image: url(baza.jpg);
-    background-size: 100% ; 
-    background-repeat: no-repeat;
 }
 
 ul, li {
@@ -37,7 +34,8 @@ section{
 }
 #gallery{
 	padding: 10px;
-	background-color: white;
+	background-image: url(baza1.jpg);
+        background-size:100%;
 }
 .post{
     background-color: white;
