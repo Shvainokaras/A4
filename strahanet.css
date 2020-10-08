@@ -34,6 +34,8 @@ section{
 }
 #gallery{
 	padding: 10px;
+	background-image: url(rombs.jpg);
+	background-size: 100%;
 }
 .post{
     background-color: white;
