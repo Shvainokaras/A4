@@ -39,6 +39,7 @@ section{
 }
 .post{
     background-image: url(rombs.jpg);
+	background-size: 100%;
 }
 img{padding: 15px}
 #pesenki{
