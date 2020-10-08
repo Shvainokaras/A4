@@ -34,8 +34,6 @@ section{
 }
 #gallery{
 	padding: 10px;
-	background-image: url(baza1.jpg);
-        background-size:100%;
 }
 .post{
     background-color: white;
